@@ -1,0 +1,5 @@
+C:/Users/Administrator/Desktop/Facial_recognition_based_regular_care_service filter=lfs diff=lfs merge=lfs -text
+C:/Users/Administrator/Desktop/Facial_recognition_based_regular_care_service filter=lfs diff=lfs merge=lfs -text
+C:/Users/Administrator/Desktop/Facial_recognition_based_regular_care_service/AI_code.zip filter=lfs diff=lfs merge=lfs -text
+C:/Users/Administrator/Desktop/Facial_recognition_based_regular_care_services.psd filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
